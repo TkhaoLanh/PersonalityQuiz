@@ -33,6 +33,12 @@ The quiz app has three view controllers:
 
 https://github.com/TkhaoLanh/PersonalityQuiz/assets/98495637/2ee7b327-76b9-4009-b230-90698159b35c
 
+## Prerequisites
+- Swift
+- Story board
+- Xcode
+- iOS
+
 
 
 
